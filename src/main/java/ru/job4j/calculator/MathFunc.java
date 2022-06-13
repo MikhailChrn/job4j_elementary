@@ -17,8 +17,7 @@ public class MathFunc {
         int result2 = MathFunc.func2(5);
         int total = result1 + result2;
         System.out.println(total);
-        //Допишите в методе main код, который вызовет метод func1 с аргументом x = 100,
-        //Результат вычисления запишите в переменную result3.
+
         int result3 = MathFunc.func1(100);
     }
 }
