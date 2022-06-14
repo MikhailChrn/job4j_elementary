@@ -12,7 +12,6 @@ public class Converter {
         return rsl;
     }
 
-    @SuppressWarnings("checkstyle:EmptyLineSeparator")
     public static void main(String[] args) {
         float in = 140;
 
